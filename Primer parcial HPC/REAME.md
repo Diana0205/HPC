@@ -11,5 +11,5 @@ Aqui se denotan la toma de datos y la grafica donde se representa la aceleracion
 
 [Datos obtenidos aceleración](https://docs.google.com/spreadsheets/d/1VwPIax58od-4EpQKq0AsxRAumjRPU5qznPx5cSa6qJ0/edit#gid=0)
 
-![alt text](E:\I-2016\hpc\Primer parcial\aceleracion.png)
+
 
