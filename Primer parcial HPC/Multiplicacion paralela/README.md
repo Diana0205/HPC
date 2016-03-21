@@ -6,3 +6,9 @@ En este algoritmo se habla de:
 •Se puede acceder por los threads de un mismo bloque.
 • Acceso más veloz.
 • Dimensión pequeña.
+
+A continuación se tiene los datos obtenidos con la grafica en donde se representa que el tiempo de ejecucion incrementa a medida que tambien incrementa el tamaño de la matriz. [Datos multiplicacion secuencial](https://docs.google.com/spreadsheets/d/1VwPIax58od-4EpQKq0AsxRAumjRPU5qznPx5cSa6qJ0/edit#gid=89247808)
+
+
+
+
