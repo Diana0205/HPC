@@ -8,4 +8,4 @@ En este algoritmo se habla de:
 • Acceso más veloz.
 • Dimensión pequeña.
 
-A continuación se muestran los datos y la grafica obtenida en donde se ve como aumneta el tiempo a medida que tambien incrementa el tamaño de los vectores.[Datos obtenidos multiplicación paralela](https://docs.google.com/spreadsheets/d/1VwPIax58od-4EpQKq0AsxRAumjRPU5qznPx5cSa6qJ0/edit#gid=1712626559)
+A continuación se muestran los datos y la grafica obtenida en donde se ve como aumneta el tiempo a medida que tambien incrementa el tamaño de los vectores [Datos obtenidos multiplicación paralela](https://docs.google.com/spreadsheets/d/1VwPIax58od-4EpQKq0AsxRAumjRPU5qznPx5cSa6qJ0/edit#gid=1712626559)
