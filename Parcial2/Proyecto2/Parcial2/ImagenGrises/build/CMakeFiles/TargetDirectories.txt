@@ -1,0 +1,1 @@
+/home/hera_hpccourse/Diana/Proyecto2/Parcial2/ImagenGrises/build/CMakeFiles/ImageGrises.dir
