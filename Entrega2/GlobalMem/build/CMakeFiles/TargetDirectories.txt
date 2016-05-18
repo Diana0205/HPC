@@ -1,0 +1,1 @@
+/home/hera_hpccourse/Diana/HPC/Entrega2/GlobalMem/build/CMakeFiles/GlobalMem.dir

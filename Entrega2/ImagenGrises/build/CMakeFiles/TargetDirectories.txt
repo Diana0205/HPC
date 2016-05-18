@@ -1,0 +1,1 @@
+/home/hera_hpccourse/Diana/HPC/Entrega2/ImagenGrises/build/CMakeFiles/ImageGrises.dir
