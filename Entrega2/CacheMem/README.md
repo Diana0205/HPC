@@ -12,4 +12,5 @@ el proceso de convolucion.
 Utilizamos el filtro sobel con el que finalmente se obtiene la conversion a escala de grises 
 y se presentan 3 tipos de imagenes: una normal, una con escala de grises y otra con el filtro sobel.
 
-La diferencia entre los filtros es que en el SobelY se realiza el proceso con la transpuesta del gradiente
+La diferencia entre los filtros es que depende si se encuentra la transpuesta del gradiente,
+pues esto ya corresponderia al recorrido sobre la imagen en el eje y.
