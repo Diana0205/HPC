@@ -10,6 +10,9 @@ La convolución se realiza moviendo el núcleo a través de la imagen, un píxel
 sus vecinos son ponderados por el valor correspondiente en el núcleo , y se
 suman para producir un nuevo valor . Esta operación se muestra en el siguiente diagrama .
 
+Gradiente: 
+![alt text](https://github.com/Diana0205/HPC/blob/master/Entrega2/gradiente.png "Logo Title Text 1")
+
 Aplicando el núcleo a la primera pixel nos da un valor de salida para ese píxel, 
 lo tratamos como si el núcleo ha sido superpuesta sobre la imagen, con el píxel del centro del 
 núcleo de la alineación que el primer pixel en la imagen. 
