@@ -17,4 +17,5 @@ Utilizamos el filtro sobel con el que finalmente se obtiene la conversion a esca
 
 Se realiza el proceso tanto en CPU como en GPU.
 
-La diferencia entre los filtros es que en el SobelY se realiza el proceso con la transpuesta del gradiente.
+La diferencia entre los filtros es que depende si se encuentra la transpuesta del gradiente,
+pues esto ya corresponderia al recorrido sobre la imagen en el eje y.
