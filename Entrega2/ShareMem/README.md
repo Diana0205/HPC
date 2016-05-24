@@ -16,3 +16,15 @@ Se realiza el proceso tanto en CPU como en GPU.
 
 La diferencia entre los filtros es que depende si se encuentra la transpuesta del gradiente,
 pues esto ya corresponderia al recorrido sobre la imagen en el eje y.
+
+
+A continuación se muestra la grafica donde se muestra el tiempo de ejecución con el algoritmo de memoria global y su comparación contra el tamaño de las imagenes, que en total fueron 9.
+
+Tiempo de ejecucion vs Tamaño imagen Algoritmo Global Memory:
+
+![alt text](https://github.com/Diana0205/HPC/blob/master/Entrega2/ShareMem/TESM.png "Logo Title Text 1")
+
+
+Tambien se hizo se saco la acelerecion del algoritmo en comparacion al tamaño de las imagenes. Tiempo de ejecucion vs Tamaño imagen Algoritmo global memory:
+
+![alt text](https://github.com/Diana0205/HPC/blob/master/Entrega2/ShareMem/Aceleracion%20Shared%20Memory.png "Logo Title Text 1")
