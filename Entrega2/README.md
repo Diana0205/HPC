@@ -91,12 +91,12 @@ Se hizo una grafica en donde se toma el tiempo de ejecucion de los 4 tipos de al
 memoria global, memoria constante y memoria compartida. Cada uno de estos algoritmos se compara con el
 tamaño de las imagenes con las que se realizo el algoritmo.
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/Diana0205/HPC/blob/master/Entrega2/Tiempo%20de%20ejecucion%20de%20todos%20los%20algoritmos.png "Logo Title Text 1")
 
 
 Tambien se hizo una grafica en donde se compara el tamaño de las imagenes con la aceleración de cada algoritmo.
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/Diana0205/HPC/blob/master/Entrega2/Aceleracion%20de%20todos%20los%20algoritmos.png "Logo Title Text 1")
 
 
 
