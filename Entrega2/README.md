@@ -88,7 +88,17 @@ La secuencia de comandos debe producir una nueva imagen en escala de grises, des
  
  
 Se hizo una grafica en donde se toma el tiempo de ejecucion de los 4 tipos de algoritmo: secuencial,
-memoria global, memoria constante y memoria compartida. Cada uno de estos algoritmos se compara con el
+memoria global, memoria constante y memoria compartida.
+
+A continuacion los datos que se obtuvieron:
+
+[Datos obtenidos para tiempo de ejecucion de los algoritmos con opencv]
+(https://docs.google.com/spreadsheets/d/1FUx95x3vuLItxA2gLCffN1JuDGD0WVM4wvzOchXp9Rc/edit#gid=0)
+
+
+
+
+Cada uno de estos algoritmos se compara con el
 tamaño de las imagenes con las que se realizo el algoritmo.
 
 ![alt text](https://github.com/Diana0205/HPC/blob/master/Entrega2/Tiempo%20de%20ejecucion%20de%20todos%20los%20algoritmos.png "Logo Title Text 1")
