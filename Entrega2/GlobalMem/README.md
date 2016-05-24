@@ -26,6 +26,7 @@ Tiempo de ejecucion vs Tamaño imagen Algoritmo Global Memory:
 ![alt text](https://github.com/Diana0205/HPC/blob/master/Entrega2/GlobalMem/TEGM.png "Logo Title Text 1")
 
 
-Tambien se hizo se saco la acelerecion del algoritmo en comparacion al tamaño de las imagenes. Tiempo de ejecucion vs Tamaño imagen Algoritmo global memory:
+Tambien se hizo se saco la acelerecion del algoritmo en comparacion al tamaño de las imagenes. 
+Tiempo de ejecucion vs Tamaño imagen Algoritmo global memory:
 ![alt text](https://github.com/Diana0205/HPC/blob/master/Entrega2/GlobalMem/Aceleracio%20%20globlal%20memory.png "Logo Title Text 1")
 
