@@ -19,6 +19,6 @@ A continuación se muestra la grafica donde se muestra el tiempo de ejecución c
 constante y su comparación contra el tamaño de las imagenes, que en total fueron 9.
 
 Tiempo de ejecucion vs Tamaño imagen Algoritmo cache memory(memoria compartida): 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/Diana0205/HPC/blob/master/Entrega2/CacheMem/TECM.png "Logo Title Text 1")
 
 
