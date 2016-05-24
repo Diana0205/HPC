@@ -86,5 +86,19 @@ Justo al final del código que necesitamos para cambiar displayImage para mostra
 en lugar del original. 
 La secuencia de comandos debe producir una nueva imagen en escala de grises, destacando los bordes de la imagen original.
  
+ 
+Se hizo una grafica en donde se toma el tiempo de ejecucion de los 4 tipos de algoritmo: secuencial,
+memoria global, memoria constante y memoria compartida. Cada uno de estos algoritmos se compara con el
+tamaño de las imagenes con las que se realizo el algoritmo.
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+
+Tambien se hizo una grafica en donde se compara el tamaño de las imagenes con la aceleración de cada algoritmo.
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+
+
 
 
