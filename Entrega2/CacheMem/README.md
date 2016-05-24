@@ -21,4 +21,8 @@ constante y su comparación contra el tamaño de las imagenes, que en total fuer
 Tiempo de ejecucion vs Tamaño imagen Algoritmo cache memory(memoria compartida): 
 ![alt text](https://github.com/Diana0205/HPC/blob/master/Entrega2/CacheMem/TECM.png "Logo Title Text 1")
 
+Tambien se hizo se saco la acelerecion del algoritmo en comparacion al tamaño de las imagenes.
+Tiempo de ejecucion vs Tamaño imagen Algoritmo cache memory(memoria compartida): 
+![alt text](https://github.com/Diana0205/HPC/blob/master/Entrega2/CacheMem/Aceleracion%20Cache%20memory.png "Logo Title Text 1")
+
 
