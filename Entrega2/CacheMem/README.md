@@ -14,3 +14,11 @@ y se presentan 3 tipos de imagenes: una normal, una con escala de grises y otra 
 
 La diferencia entre los filtros es que depende si se encuentra la transpuesta del gradiente,
 pues esto ya corresponderia al recorrido sobre la imagen en el eje y.
+
+A continuación se muestra la grafica donde se muestra el tiempo de ejecución con el algoritmo de memoria 
+constante y su comparación contra el tamaño de las imagenes, que en total fueron 9.
+
+Tiempo de ejecucion vs Tamaño imagen Algoritmo cache memory(memoria compartida): 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+
